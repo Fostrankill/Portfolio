@@ -4,8 +4,8 @@ import IMG1 from "../../assets/portfolio1.jpg";
 import IMG2 from "../../assets/portfolio2.jpg";
 import IMG3 from "../../assets/portfolio3.jpg";
 import IMG4 from "../../assets/portfolio4.jpg";
-import IMG5 from "../../assets/portfolio5.png";
-import IMG6 from "../../assets/portfolio6.jpg";
+import IMG5 from "../../assets/portfolio5.jpg";
+import IMG6 from "../../assets/portfolio6.png";
 
 const data = [
   {
@@ -26,28 +26,29 @@ const data = [
   {
     id: 3,
     image: IMG3,
-    title: "Crypto Currency",
+    title: "Origin Digital",
     github: "https://github.com/Fostrankill/wild-newspaper",
     demo: "https://github.com/Fostrankill/wild-newspaper",
   },
   {
     id: 4,
     image: IMG4,
-    title: "Crypto Currency",
+    title: "Where is my %*!# Passport",
     github: "https://github.com/Fostrankill/wild-newspaper",
     demo: "https://github.com/Fostrankill/wild-newspaper",
   },
   {
     id: 5,
     image: IMG5,
-    title: "Crypto Currency",
-    github: "https://github.com/Fostrankill/wild-newspaper",
+    title: "Ecocco",
+    github:
+      "https://github.com/WildCodeSchool/2022-09-JS-Lille-project-3-g3-origin",
     demo: "https://github.com/Fostrankill/wild-newspaper",
   },
   {
     id: 6,
     image: IMG6,
-    title: "Crypto Currency",
+    title: "Data Base",
     github: "https://github.com/Fostrankill/wild-newspaper",
     demo: "https://github.com/Fostrankill/wild-newspaper",
   },
