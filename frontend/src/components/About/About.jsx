@@ -25,21 +25,22 @@ export default function About() {
               <small>Junior</small>
             </article>
             <article className="about_card">
-              <FiUsers className="about_icon" />
-              <h5>Clients</h5>
-              <small>Junior</small>
-            </article>
-            <article className="about_card">
               <VscFolderLibrary className="about_icon" />
               <h5>Projects</h5>
               <small>6+ Completed </small>
             </article>
+            <article className="about_card">
+              <FiUsers className="about_icon" />
+              <h5>Business</h5>
+              <small>GCI /AUCHAN RETAIL</small>
+            </article>
           </div>
           <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nesciunt
-            fugit ipsam et inventore numquam voluptas illo, sequi tempore maxime
-            iusto amet ut rerum debitis vitae soluta temporibus, assumenda
-            molestias beatae.
+            Aprés 10 années au sein de la grande famille du Retail et de la
+            Supply, j'ai repris une formation en temps que développeur Web à la
+            Wild Code School sur le campus de Lille. Profil evolutif passionné
+            par le développement web et mobile, je cherche à rejoindre une
+            entreprise avec laquelle je pourrais partager plus que du code !
           </p>
 
           <a href="#contact" className="btn btn-primary">
